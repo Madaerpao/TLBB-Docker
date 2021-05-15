@@ -24,16 +24,11 @@ https://docs.docker.com/compose/install/#alternative-install-options
 
 2. **Clone this Repo**
 
-**Download**
+
+** Clone**
 
 ```
-https://github.com/DevTLBB/TLBB-Docker/archive/master.zip
-```
-
-**OR Clone**
-
-```
-git clone https://github.com/DevTLBB/TLBB-Docker.git tlbb-docker
+git clone https://github.com/Madaerpao/TLBB-Docker.git tlbb-docker
 ```
 
 3. **Run**
